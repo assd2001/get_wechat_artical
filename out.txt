@@ -878,4 +878,122 @@ exec 函数的 globals 和 locals 参数的用法
 到了 56 岁，我还要继续做编程
 Python 数据结构——栈
 用 C 语言扩展 Python 的功能
-Python 迭代器小结
+Python 迭代器小结编程字体小汇总，总会有你喜欢的那一款！
+理解 SVM 背后的数学原理（1）
+国内程序员的办公桌是什么样的？
+这 15 篇 Python 热文，你没错过吧 ^_^
+Python 和数据科学的起步指南
+学习 Python 的三种境界
+一周时间，初试 ML
+LeetCode 刷题指南（1）：为什么要刷题
+为什么离不开 Stackoverflow？
+换一个灯泡，要多少个程序员？
+关于编程，大学没有传授的 10 件事
+编程老手的哪些特点，是值得新手程序员学习的？
+从业 30 年的女系统管理员的经验分享
+你不知道的盲人程序员，他们是这样编程的
+10 个实用的 Python 数据可视化库
+学 Vim 时希望早点知道的建议
+数学有什么用处？看完后恍然大悟！
+国外程序员的办公桌是什么样的？
+Python 之父谈论 Python 的未来
+震惊小伙伴的单行代码（Python篇）
+10 天 100 小时学数据科学，我推荐你这样学！
+程序员专属手机壳，凉爽起来：Show me the Code！
+推荐！国外程序员整理的机器学习资源大全
+你离 2016 里约奥运会有多远？
+程序员：你的代码为谁而写?
+Python 基础：分分钟入门
+程序员的基础生存技能：高效用Google
+学习 Python 编程的 20 个资源
+IBM Spark大赛火热进行中  10万美元悬赏最佳数据应用
+童年的马里奥，其实住在个超级现实的世界
+腾讯课堂推Linux运维课程，名企面试直通车等你来搭
+那些年，我们追过的经典 Python 技术书
+是时候来一场 Python 工程师公投了！
+Python 数据科学入门
+10万美元悬赏最佳Spark应用  IBM Spark大赛启动
+国务院特批、副总理张高丽亲启的这家互联网公司，海量职位热招ing!
+别因为要学的太多反而压垮自己
+最好的学习方法是什么样的？
+程序员的烦恼，你占了几条？
+两种编程高手
+Python 程序员的 10 个常见错误
+Python 程序员的常见错误
+Google 怎么样做 50 PB 数据排序的？
+程序员为什么要时刻保持危机感？
+看程序员是如何把自动化做到极致的！
+发布一个软件，需要多少人？
+Python开发者的端午节禁忌，你居然还不知道？
+趣文：Ctrl+Alt+Del 的历史
+我的敏捷开发方法论
+为什么代码缩进时用 Tab 超级棒？
+程序员的创业陷阱：接私活
+玩转 Stack Overflow 之提问篇
+程序员提高效率的一些建议
+很全的 Python 面试题（上）
+女程序员的梦，众网友的神回复
+这 10 篇 Python 热文，你没错过吧 ^_^
+为什么给类、方法、变量命名这么难？
+熬夜不会直接导致掉头发，精神压力才是背后凶手
+Python 多进程实践
+用 KNN 来进行验证码识别
+Python 正则表达式学习摘要及资料
+Python 黑魔法之 Encoding & Decoding
+Python 延迟初始化（lazy property）
+隐马尔科夫模型 python 实现简单拼音输入法
+爬取豆瓣电影 top250 提取电影分类进行数据分析
+用 Python 理解 Web 并发模型
+在 Python 中实现你自己的推荐系统
+Python 序列化模型数据为 JSON
+使用 Python 和 Perl 绘制北京跑步地图
+PyCharm 2016.2 正式发布，全新 Python 开发体验
+pickle 和 cPickle：Python对象的序列化（下）
+pickle 和 cPickle：Python 对象的序列化（上）
+使用 pyenv + virtualenv 打造多版本 Python 开发环境
+python 数据统计，分组的一些小技巧
+编写兼容 Python 2.x 和 3.x 代码的方法
+为 Flask 编写一个百度编辑器的插件
+Python-编写1个 Memcached 的命令行
+Python 工匠：善用变量来改善代码质量
+Python 要你命三千
+你真的理解 Python 中 MRO 算法吗？
+Python 迭代器资料整理
+OpenCV 形状分析（上）：计算轮廓中心
+6 种 Python 数据可视化工具
+Python 中的下划线
+Python time模块学习
+用 Python 实现文档聚类
+聊一聊 Python 2 中的编码
+给 Python 程序员的函数式编程实践经验
+如何确定一个字符串中是否所有字符全部互不相同
+五分钟战胜 Python 字符编码
+这 10 篇 Python 热文，你没错过吧 ^_^
+DNS 原理入门
+Python 的 16 个“坑”
+如何实现一个神经网络
+Python 数据结构——二叉搜索树的实现（下）
+值得关注的技术微信公号
+Python 数据结构——二叉搜索树的实现（上）
+5 个理由告诉你为什么要学习使用 Python 装饰器
+Pythonista 容易忽略的 python 编程方式
+Python 自定义函数的特殊属性（收藏专用）
+Python 性能分析大全
+Python 迭代器模块 itertools 简介
+用 Python 创建 Excel 高级工作表
+Python 数据结构——二叉堆的实现
+Python 数据结构——解析树及树的遍历
+Python 数据结构——树的实现
+Python 字符串格式化
+一些实用的 python 小建议
+十行代码实现牛顿方法
+用ctypes观察Python对象的内存结构
+零基础 20 分钟搭建 SAE 微信个人号后台
+手把手教你扩展个人微信号（1）
+理解 Python 中的线程
+奇怪的 dead lock
+使用 Python 读取 8 GB 大小的文件
+很全的 Python 面试题（下）
+我的 Django 项目中的权限机制
+python 爬虫神器 PyQuery 的使用方法
+Pyston 0.5 发布

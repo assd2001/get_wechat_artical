@@ -27,7 +27,7 @@ def main():
     f=open(r'e:\1.html')
     # Todo 目前扫描静态页面，修改为支持动态页面
     html=f.read()
-    fout=open(r'E:\out.txt','a')
+    fout=open(r'E:\git\python_learn\get_wechat_artical\out.txt','a')
     soup=BeautifulSoup(html)
     for classflag in classlist:
         urlclasses = soup.find_all('a',attrs={"class": classflag})
@@ -38,7 +38,7 @@ def main():
                         if child.name=='h4':
                             if child.string!=None:
                                 if child.string.encode('utf-8') in titlelist:
-                                    # print 'pass' + child.string.encode('utf-8')
+                                    print 'pass' + child.string.encode('utf-8')
                                     pass
                                 else:
                                     print 'unpass' + child.string.encode('utf-8')
